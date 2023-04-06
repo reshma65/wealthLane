@@ -1,0 +1,35 @@
+{
+    
+    "companyName" : "Amnil41",
+    "ticker" : "ABDP",
+    "taxId" : "123455613",
+    "countryOfIncorporation" : "Algeria",
+    "dateOfIncorporation" : "02/02/2022",
+    "primaryStockExchange" : "NYSE",
+    "industrySector" : "Engergy",
+    "website" : "www.amniltech.com",
+    "domainName" : "yopmail.com",
+    "country" : "Nepal",    
+    "zipCode" : "001144",
+    "state" : "Bagmati",
+    "city" : "Lalitpur",
+    "address1" : "Jhamshikhel",
+
+    "adminFirstName" : "Sabir",
+    "adminLastName" : "Maharjan",
+    "adminEmail" : "sabir.maharjan15@yopmail.com",
+    "adminPhoneNumber" : "9841232323",
+
+    "approverFirstName" : "Anju",
+    "approverLastName" : "Maharjan",
+    "approverEmail" : "anju.maharjan15@yopmail.com",
+    "approverPhoneNumber" : "9841232328",
+
+    "implementationManagerUser" : "Musk 1 Musk 1",
+    "productSupportUser" : "Musk 2 Musk 2",
+    "productionSupportUser" : "Musk 3 Musk 3",
+    "relationshipManagerUser" : "Musk 4 Musk 4",
+    "serviceManagerUser" : "test test"
+
+
+}

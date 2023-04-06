@@ -1,0 +1,21 @@
+{
+  "name": "wealthlane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Reshma Maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-localstorage-commands": "^2.2.2",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}

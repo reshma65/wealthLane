@@ -1,0 +1,15 @@
+{ 
+    "vendor":
+        {
+            "username" : "admin",
+            "password" : "1q2w3E*",
+            "invalidUsername" : "12313",
+            "invalidPassword" : "admin"
+            
+         },
+    "customer":
+         {
+            "username" : "blackrock_admin@yopmail.com",
+            "password" : "Wealthlane!23"
+         }
+}

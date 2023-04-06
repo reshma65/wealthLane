@@ -1,0 +1,20 @@
+{
+    "systemRole" :
+    {
+        "role" : "Lead"
+    },
+
+    "planManagement" :
+    {
+        "planName" : "plan36",
+        "awardType" : "RSU"
+    },
+
+    "vestingTemplates" :
+    {
+        "VestingName" : "3 year cliff Vesting 2",
+        "searchText" : "3 year cliff Vesting 1"
+    }
+
+    
+}
