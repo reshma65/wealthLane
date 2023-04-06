@@ -1,2 +1,0 @@
-sanish maharjan
-test test
